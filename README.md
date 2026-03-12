@@ -3,10 +3,14 @@
 ## Objetivo da aplicação
 A aplicação parece ser um sistema simples de cadastro e gerenciamento de cursos, permitindo registrar informações de cursos e posteriormente listar esses cursos para visualização.
 
+---
+
 ## Fluxos principais do sistema
 
 1. Cadastro de curso
 2. Listagem de cursos cadastrados
+
+---
 
 ## Pontos críticos para teste
 
@@ -19,9 +23,13 @@ Durante a análise da aplicação, foram identificados alguns pontos importantes
 - Tratamento de dados inválidos ou incompletos
 - Comportamento do sistema em cenários inesperados
 
+---
+
 ## Estratégia de teste
 
 Os testes foram conduzidos utilizando abordagem exploratória, focando nos principais fluxos da aplicação e na validação do comportamento do sistema em diferentes cenários.
+
+---
 
 ## Bugs encontrados
 
@@ -35,6 +43,17 @@ Durante os testes foram identificados problemas críticos no sistema:
 - Falta de validação de URLs
 
 Detalhes completos estão documentados na planilha de casos de teste.
+
+---
+
+## Casos de teste
+
+A documentação completa dos testes pode ser acessada na planilha:
+
+Planilha de Casos de teste (Google Sheets):
+https://docs.google.com/spreadsheets/d/1ITAfZcvkTCJtEwui9tpes01FyTNxJodAqpyR8VCmJhM/edit?usp=sharing
+
+---
 
 ## Evidências
 
